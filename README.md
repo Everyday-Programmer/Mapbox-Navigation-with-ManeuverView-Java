@@ -1,2 +1,2 @@
-# Mapbox-Navigation-with-ManeuverView-Java
-This repository contains code of mapbox map and mapbox ManeuverView implementation in android studio using java.
+# Mapbox-Route-Navigation-for-Android-using-Java
+This repository contains code of implementation of setting route from current location to a destination point and search places in mapbox using Java in Android Studio.
